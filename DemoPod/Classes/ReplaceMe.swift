@@ -1,6 +1,6 @@
 import Foundation
 
-public PrashTest {
+public class PrashTest {
     
     public init() {
         
