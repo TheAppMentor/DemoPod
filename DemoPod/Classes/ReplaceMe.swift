@@ -4,7 +4,7 @@ import Foundation
 public class PrashTest: NSObject {
     
     @objc
-    public init() {
+    override public init() {
         
     }
     
